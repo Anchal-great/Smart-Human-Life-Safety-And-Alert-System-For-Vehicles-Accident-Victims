@@ -43,7 +43,7 @@ If the person does not respond within a few seconds, it automatically sends an *
 
 ## 🧾 Technologies Used
 - Arduino IDE  
-- Embedded C / C++  
+- Embedded C
 - GSM & GPS Communication Protocols  
 - Electronic Circuit Design  
 - Real-time Monitoring
